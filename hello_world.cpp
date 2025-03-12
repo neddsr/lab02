@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // это база
 #include <string> // to use string variables
 
 int main() 
