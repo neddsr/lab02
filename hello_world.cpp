@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string> // для использования сроковых переменных
+#include <string> // to use string variables
 
 int main() 
 {
